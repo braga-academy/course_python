@@ -1,6 +1,6 @@
 print('Vamos Fazer uma soma?')
-number_one = input('Digite o primeiro Número: ')
-number_two = input('Digite o segundo Número: ')
+n1 = input('Digite o primeiro Número: ')
+n2 = input('Digite o segundo Número: ')
 
-result = float(number_one) + float(number_two) # float() permite que sejam inseridos números decimais
+result = float(n1) + float(n2) # float() permite que sejam inseridos números decimais
 print (result)
