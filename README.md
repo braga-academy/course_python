@@ -7,7 +7,7 @@ Because in this course the exercises starts only in the lesson #4
 # Notes
 #### Precedence Order in arithmetic
 What execution order of expressions.
-* 1º -> ()
-* 2º -> **
+* 1º -> ´()´
+* 2º -> ´**´
 * 3º -> *, /, //, %
 * 4º -> +, -
